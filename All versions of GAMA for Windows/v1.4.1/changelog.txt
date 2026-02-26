@@ -1,0 +1,42 @@
+popovicialinc released this May 21, 2025
+
+⚠️ BETA NOTICE
+This is BETA software. A lot has been reworked under the hood, so bugs may have snuck in. If you spot anything weird, report it via the Issues tab or hit up the relevant Reddit threads. You’ll be helping GAMA get better for everyone.
+
+🔄 What’s New in v1.4.1:
+
+🧩 Modular Overhaul
+GAMA is no longer one massive spaghetti script. It’s now sliced into clean, modular .bat files - easier to read, update, and debug. Better for you, better for me, better for future features.
+
+🎨 UI Refresh
+Smoother interface, cleaner prompts, easier navigation. Just vibes.
+
+📝 Wording Improvements
+Rewrote a bunch of command-line prompts and outputs to make them more human-readable and less “2006 terminal nerd”.
+
+🌐 Update Checker
+GAMA now checks for updates automatically (don’t worry, no creepy background stuff). Stay up to date without digging through GitHub every time.
+
+🚀 Shizuku Launcher
+You can now start Shizuku straight from GAMA - it’s optional, but super handy for users who rely on it.
+
+🔮 Coming Soon in v1.4.2:
+
+✅ App Whitelist/Blacklist
+Working on app-specific rules - for example, skipping banking or camera apps unless you specifically allow them. This’ll make Vulkan forcing safer and smarter.
+
+🪵 Smarter Error Logging
+Right now, logs are basic. v1.4.2 will show why things fail and where - better for bug reports and less frustrating for users.
+
+🚧 Coming Soon in v1.4.3 (Yeah, I Know):
+
+🔁 Auto-Updater
+No more manual downloads. GAMA will update itself - clean, secure, and seamless.
+
+💬 Dev Notes:
+
+Yeah, I know - v1.4.1 took longer than expected. Life got busy, and modularizing GAMA meant rewriting a ton of little blocks and making them play nice. But trust me - this rebuild sets the stage for way more powerful stuff coming soon.
+
+Also, I’ve been working on fixes inspired by this project. Most of them are temporarily disabled - they don’t work right just yet. You’ll find the new (experimental) commands in set-vulkan.bat and set-opengl.bat if you’re curious.
+
+👀 Wanna help shape the future of GAMA?

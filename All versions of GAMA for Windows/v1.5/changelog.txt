@@ -1,0 +1,14 @@
+popovicialinc released this Jan 17, 2026
+
+Hey y'all! It's been a while since I last visited this project, thought I might take another look at it and improve some stuff. No major features have been added; a lot has been reworked under the hood though.
+Anyway, here's the change log:
+
+Main Menu
+
+Device status now works as intended
+Changed the sizing of the window
+"Setting renderer..." page
+
+Improved the descriptions' wording
+Made pages a bit smaller, making everything more simple
+So yeah, that's practically all. Thanks for using GAMA!

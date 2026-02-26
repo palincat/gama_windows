@@ -1,0 +1,19 @@
+popovicialinc released this May 4, 2025
+
+New Aggression Levels for App Closure:
+- Normal: Triggers crashes in SystemUI, Settings, Samsung Launcher, and AOD Services.
+- Aggressive: Force-stops ALL apps to ensure system-wide Vulkan usage. Note: This process takes some time to execute.
+
+Bug Fixes: Addressed additional bugs for improved performance.
+
+Optimized Platform-Tools Folder: Reduced the folder size for better efficiency.
+
+Introducing GAMA.exe: A streamlined launcher for "gama-core.bat" (the core program itself).
+
+Why the .exe?
+
+Since .bat files can't have icons, I created a new launcher, converted it to a .exe, and added a custom icon to improve the visual appeal of GAMA. GAMA can be started without the .exe launcher, all you need to do is go into the "internal
+
+Here's the source-code of GAMA.exe
+
+@echo off call "%~dp0internal\gama-core.bat" 

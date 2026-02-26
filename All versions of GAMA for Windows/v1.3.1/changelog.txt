@@ -1,0 +1,7 @@
+popovicialinc released this May 4, 2025
+
+Added coloured text
+Fixed some bugs
+Further improved the wording/phrasing
+Added custom-sized window sizes (width x height)
+Added an all-in-one solution; simplified setup process

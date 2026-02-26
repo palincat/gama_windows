@@ -1,0 +1,16 @@
+popovicialinc released this May 6, 2025
+
+
+Renamed "gama-core.bat" to "gama-full.bat"
+Introducing GAMA-Vulkan and GAMA-OpenGL, the barebones versions of GAMA, meant to force Vulkan and OpenGL rendering respectively, all in only one run
+
+No UI at all, just pure commands
+Here's what GAMA-Vulkan will do:
+
+Force Vulkan rendering
+Soft-crash SystemUI, Settings, Samsung Launcher, AOD Services and GBoard.
+Here's what GAMA-OpenGL will do:
+
+Force OpenGL rendering
+Soft-crash SystemUI, Settings, Samsung Launcher, AOD Services and GBoard.
+That's it.

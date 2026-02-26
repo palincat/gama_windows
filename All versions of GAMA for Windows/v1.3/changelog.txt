@@ -1,0 +1,5 @@
+popovicialinc released this May 3, 2025
+
+- Added support for setting GPU API to OpenGL, making this script a GPU API Manager (together with "for Android-based devices", the new name will be abbreviated to G.A.M.A - thus forming GAMA!)
+- Introduced a menu system with new options for a more streamlined experience
+- Improved overall wording and phrasing for better clarity

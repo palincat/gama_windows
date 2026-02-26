@@ -1,0 +1,53 @@
+popovicialinc released this May 15, 2025
+
+Main Menu
+
+Added Device Status check on the home screen (Can be manually refreshed by pressing [5]; auto-refresh planned for v1.4.1)
+
+Improved UI/UX:
+
+Options are now visually tighter and easier to scan
+
+Prompt dimensions adjusted for clarity
+
+Added visible release date in the interface for version awareness
+
+API Switching (Vulkan / OpenGL)
+
+Refined and cleaned up the menus and option layouts
+
+Reworked all prompt wording to improve clarity and flow
+
+Introduced Learn More functionality for the Aggressive profile (After selecting your API, press [3] to view detailed internal documentation on what the aggressive mode does, potential side effects, and recommendations)
+
+Launch All Apps
+
+Better UI and language — now more readable and clear
+
+Rewrote warning prompts for tone and realism
+
+Yes, that Subnautica reference is intentional: “Are you certain whatever you're doing is worth it?” (I love Subnautica)
+
+Notes
+
+GAMA is still in active development. Expect minor bugs or inconsistencies depending on your device and ADB setup.
+
+Built and tested on Windows 10 and 11, with standard Android Debug Bridge tools installed.
+
+If your device isn't recognized, make sure USB debugging is enabled and ADB drivers are properly installed. Also, make sure you've connected only ONE device to your computer.
+
+Roadmap for v1.4.1 (18.10.2025)
+
+Automatic ADB connection check and refresh loop
+
+Automatic update checking (just a simple "Hey! There's a new update available, maybe you should check it out" or something - no automatic downloads, of course; we don't do that here).
+
+Improved error handling with debug logging
+
+Whitelisting apps (apps that shouldn't be stopped, AT ALL)
+
+Blacklisting apps (apps that SHOULD be stopped, without having to use the "Aggressive" profile; that thing is seriously overkill and nuclear for ANY use case. I should probably scrap it in v1.4.1, I'll think about it)
+
+Laying the groundwork for a full PowerShell overhaul – Yep, GAMA’s getting a complete rewrite. While Batch served us well (shoutout to v1, the scrappy OG), the project has outgrown its humble beginnings. It’s time to level up with a proper interface and a more powerful scripting backend. It will take a while to port GAMA over to PowerShell, but then again, maybe not... I'll look into it, and we'll release GAMA v2!
+
+Anyway, thank you for using GAMA!
