@@ -39,7 +39,7 @@ While optimized for the Samsung Galaxy S23 lineup, this project is compatible wi
 
 # **Get started on your platform**
 
-* 🤖 [**Android**]([https://github.com/popovicialinc/gama/blob/main/README.md#gama-for-android](https://github.com/popovicialinc/gama/blob/main/README.md#gama-on-android))
+* 🤖 [**Android**](https://github.com/popovicialinc/gama?tab=readme-ov-file#gama-on-android)
 * 🖥️ [**Windows**](https://github.com/popovicialinc/gama/blob/main/README.md#gama-for-windows-batch)
 * 🐧 [**Linux**](https://github.com/Ameen-Sha-Cheerangan/s23-vulkan-support) (adapted by Ameen Sha Cheerangan)
 
