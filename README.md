@@ -24,7 +24,7 @@ While optimized for the Samsung Galaxy S23 lineup, this project is compatible wi
 * 🔓 **Zero risk** - Root is not required, 100% Knox-safe.
 * 🛠️ **User-friendliness** - Simple yet beautiful UI to switch APIs without complex terminal commands
 
-![Downloads](https://img.shields.io/github/downloads/popovicialinc/gama/total?style=flat&label=DOWNLOADS&labelColor=%23111111&color=%233b2f5b)
+![Downloads](https://img.shields.io/github/downloads/popovicialinc/gama_windows/total?style=flat&label=DOWNLOADS&labelColor=%23111111&color=%233b2f5b)
 
 **Extra resources**
 * 📱 [**Does Vulkan work on my device?**](https://docs.google.com/spreadsheets/d/1X_UuSJBWc9O2Q9nW0x-V_WC0uY-yKDfNRkxgko8i6AA/edit?usp=sharing)
@@ -39,7 +39,7 @@ While optimized for the Samsung Galaxy S23 lineup, this project is compatible wi
 
 # **Get started on your platform**
 
-* 🤖 [**Android**](https://github.com/popovicialinc/gama/blob/main/README.md#gama-for-android)
+* 🤖 [**Android**]([https://github.com/popovicialinc/gama/blob/main/README.md#gama-for-android](https://github.com/popovicialinc/gama/blob/main/README.md#gama-on-android))
 * 🖥️ [**Windows**](https://github.com/popovicialinc/gama/blob/main/README.md#gama-for-windows-batch)
 * 🐧 [**Linux**](https://github.com/Ameen-Sha-Cheerangan/s23-vulkan-support) (adapted by Ameen Sha Cheerangan)
 
@@ -48,8 +48,6 @@ While optimized for the Samsung Galaxy S23 lineup, this project is compatible wi
 <br>
 
 # **GAMA on Windows (Batch)**
-
-*Deprecated in favour of [Gama on Android](https://github.com/popovicialinc/gama?tab=readme-ov-file#gama-for-android)*
 
 ## **Prerequisites**
 * **A Windows PC**
